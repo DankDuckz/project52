@@ -1,0 +1,64 @@
+.Menu {
+    display:flex;
+    justify-content:space-between;
+    padding:15px;
+    background-color:#f9f08b
+}
+
+.Grid {
+    display:flex;
+    justify-content:space-between;
+    background-color:#986ea0
+}
+
+.Origami{
+    border:solid;
+    border-radius:5px;
+    border-color:#0d30bf;
+    padding:30px;
+    font-family:fantasy
+}
+
+.Origami img {
+    border:solid
+}
+
+.BodyImage{
+    margin:0px
+}
+
+.BodyImage h2,h3 {
+    position:absolute;
+    top:300px;
+    margin-left:15%;
+    text-align:center;
+}
+
+.BodyImage  h2 {
+    margin-left:35%
+}
+
+.BodyImage h3{
+    margin-top:10%
+
+}
+p,h4{
+    text-align:center
+}
+
+a:link{
+    color:rgb(142, 142, 224)
+}
+
+a:visited{
+    color:darkblue
+}
+
+.Origami:hover{
+    transform:scale(1.2)
+}
+
+a{
+    text-decoration:none
+}
+
